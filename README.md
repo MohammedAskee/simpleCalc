@@ -1,0 +1,2 @@
+# simpleCalc
+Calculator using JS
